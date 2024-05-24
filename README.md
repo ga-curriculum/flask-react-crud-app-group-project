@@ -1,4 +1,4 @@
-# ![Flask/React CRUD App Group Project](./assets/tktk-hero.png)
+# ![Flask/React CRUD App Group Project](./assets/hero.png)
 
 ## About
 
