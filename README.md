@@ -22,10 +22,6 @@ tktk Make a copy of the Project Requirements document linked in Google Sheets do
 
 [Project Deliverables](./project-deliverables/README.md)
 
-[Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
-
-[Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
-
 [tktk Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
 [tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/17HhGcgTn9zY96FJj175uCGhaHccnA7KUDx_6Bi3xT9k/edit)
