@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Deliverables](./assets/hero.png)
+# ![Flask/React CRUD App Group Project - Project Deliverables](./assets/hero.png)
 
 ## Contents
 
@@ -54,7 +54,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo link
 
-Your team will submit a single link to the main ***public*** GitHub repo that you are using for your [tktk Module Name] below in the following format:
+Your team will submit a single link to the main ***public*** GitHub repo that you are using for your Flask/React CRUD App Group Project below in the following format:
 
 ```plaintext
 GitHub repo link: <link>

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Planning Deliverable](./assets/hero.png)
+# ![Flask/React CRUD App Group Project - Project Planning Deliverable](./assets/hero.png)
 
 ## Introduction
 

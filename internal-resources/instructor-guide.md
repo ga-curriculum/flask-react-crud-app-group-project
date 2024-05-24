@@ -6,13 +6,13 @@ While the project requirements should not be altered, you'll likely want to cust
 
 These pages can be edited in Canvas:
 
-- [tktk Module Name] Journey
-- [tktk Module Name] Details
-- [tktk Module Name] Planning Deliverable
-- [tktk Module Name] GitHub Link Deliverable
-- [tktk Module Name] Deployment Link Deliverable
+- Flask/React CRUD App Group Project Journey
+- Flask/React CRUD App Group Project Details
+- Flask/React CRUD App Group Project Planning Deliverable
+- Flask/React CRUD App Group Project GitHub Link Deliverable
+- Flask/React CRUD App Group Project Deployment Link Deliverable
 
-While all these pages can be edited, you'll likely want to make the most edits on the [tktk Module Name] Details page. Some sensible defaults are provided here, but you may want to customize some aspects of this document to match how you'd like to structure your project week for your students.
+While all these pages can be edited, you'll likely want to make the most edits on the Flask/React CRUD App Group Project Details page. Some sensible defaults are provided here, but you may want to customize some aspects of this document to match how you'd like to structure your project week for your students.
 
 Some existing items already covered in this document that you may want to customize include:
 
@@ -38,7 +38,7 @@ Edits to project requirements are complex and should be made thoughtfully. When 
 - [tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit).
 - [Project Requirements PDF](../project-requirements/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements/README.md).
-- All [tktk Module Name] rubrics in Canvas.
+- All Flask/React CRUD App Group Project rubrics in Canvas.
 
 ---
 

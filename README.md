@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Flask/React CRUD App Group Project](./assets/tktk-hero.png)
 
 ## About
 
@@ -36,7 +36,9 @@ The below content may be useful resources if you decide to customize this conten
 
 [Project Planning Deliverable](./project-planning-deliverable/README.md)
 
-[Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
+[Project GitHub Repo Link Deliverable - Front-end](./project-github-repo-link-deliverable-front-end/README.md)
+
+[Project GitHub Repo Link Deliverable - Back-end](./project-github-repo-link-deliverable-back-end/README.md)
 
 [Project Deployed App Link Deliverable](./project-deployed-app-link-deliverable/README.md)
 

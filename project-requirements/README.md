@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Project Requirements](./assets/hero.png)
+# ![Flask/React CRUD App Group Project - Project Requirements](./assets/hero.png)
 
 ## Overview
 
