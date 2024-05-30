@@ -1,18 +1,34 @@
 # ![Instructor Guide](../assets/instructor-guide.png)
 
+## What's included?
+
+There are two tracks you may take for this project depending on your preferences - A group version and and individual version.
+
+This is the repo for the group version and includes:
+
+- Flask/React CRUD App Group Project Journey
+- Flask/React CRUD App Group Project Requirements
+- Flask/React CRUD App Group Project Individual Contributor Requirements
+- Flask/React CRUD App Group Project Details
+- Flask/React CRUD App Group Project Deliverables (students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week)
+- Flask/React CRUD App Group Project Feedback [in Canvas only]
+- Flask/React CRUD App Group Project Individual Contributor Feedback [in Canvas only]
+
+## How to use group project content
+
+Students should be presented with and held to the standards of both the project requirements as a group and the individual contributor requirements individually.
+
+A group may pass their project as a whole, but individuals within that group may fail. This helps to ensure individuals in a group are not just motivated to deliver a project that meets the requirements, but also to be meaningful contributors to the project as a whole.
+
+### Group deliverables
+
+Only one person per group needs to submit deliverables into the Project Delverables assignment in Canvas. To enable this, you will need to use Canvas to construct an assignment group for this project. Use the same groups for project feedback rubric as well. All students will receive individual feedback through the project individual contributor feedback rubric.
+
 ## Customizing your project week
 
 While the project requirements should not be altered, you'll likely want to customize a few aspects of how you handle a project week.
 
-These pages can be edited in Canvas:
-
-- Flask/React CRUD App Group Project Journey
-- Flask/React CRUD App Group Project Details
-- Flask/React CRUD App Group Project Planning Deliverable
-- Flask/React CRUD App Group Project GitHub Link Deliverable
-- Flask/React CRUD App Group Project Deployment Link Deliverable
-
-While all these pages can be edited, you'll likely want to make the most edits on the Flask/React CRUD App Group Project Details page. Some sensible defaults are provided here, but you may want to customize some aspects of this document to match how you'd like to structure your project week for your students.
+While all these pages can be edited, you'll likely want to make the most edits on the Flask/React CRUD App Project Details page. Some sensible defaults are provided here, but you may want to customize some aspects of this document to match how you'd like to structure your project week for your students.
 
 Some existing items already covered in this document that you may want to customize include:
 
@@ -27,15 +43,24 @@ You may also make additions to this document, such as:
 - Examples of previous student projects.
 - Schedule considerations such as any bonus lectures or stand ups.
 
-You may also want to make changes to the planning materials students submit and the app students use to build their planning materials. By default students will build their planning materials using tktk for this project - if you'd prefer something different be sure to indicate that in the Planning Deliverable document.
+You may also want to make changes to the planning materials students submit and the app students use to build their planning materials. By default students will build their planning materials using Trello for this project - if you'd prefer something different be sure to indicate that in the Planning Deliverable document.
 
 When making edits, be mindful of overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
+
+### Customizing deliverables
+
+Some instructors may want to split the project deliverable into multiple parts so that each item be given its own due date. Individual deliverable pages exist in this content and do not need to be created. These can be found at:
+
+- [Project Planning Deliverable](../project-planning-deliverable/README.md)
+- [Project GitHub Repo Link Deliverable - Back-end](../project-github-repo-link-deliverable-back-end/README.md)
+- [Project GitHub Repo Link Deliverable - Front-end](../project-github-repo-link-deliverable-front-end/README.md)
+- [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md)
 
 ## Notes for maintainers
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:
 
-- [tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit).
+- [Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/15Kfgcbt_wIzVyqEjEqjk2Hjwr5OdcZAHJol0Z1E0-fA/edit).
 - [Project Requirements PDF](../project-requirements/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements/README.md).
 - All Flask/React CRUD App Group Project rubrics in Canvas.

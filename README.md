@@ -2,15 +2,18 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
+In this project, students will gain experience working across the full-stack, building both front-end and back-end applications in a group. They will create an authenticated back-end API allowing for full CRUD utilizing Flask and PostgreSQL. They'll also construct a front-end React application capable of interacting with that API through AJAX requests.
 
 ## Prerequisites
 
-tktk What are the prerequisites of this project?
+This project requires an understanding of:
+
+- Constructing APIs using Flask.
+- Securing Flask APIs by utilizing JWTs.
+- Interacting with a PostgreSQL database from a Flask application to carry out full CRUD on related resources.
+- Constructing React applications capable of interacting with APIs that require JWT authorization to carry out full CRUD on related resources.
 
 ## Content
-
-tktk Make a copy of the Project Requirements document linked in Google Sheets doc inside the same folder it is in now. Once you have a new URL, replace the one below. Modify the document as necessary. You may need to add or remove sections. Once you have finalized your work on the Project Requirements document in Google Sheets, download it as a PDF, name the file `project-requirements.pdf`, and add it to the `/project-requirements/assets` directory.
 
 [Project Journey](./project-journey/README.md)
 
@@ -22,9 +25,13 @@ tktk Make a copy of the Project Requirements document linked in Google Sheets do
 
 [Project Deliverables](./project-deliverables/README.md)
 
-[tktk Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
 
-[tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/17HhGcgTn9zY96FJj175uCGhaHccnA7KUDx_6Bi3xT9k/edit)
+[Project Individual Contributor Requirements PDF](./project-individual-contributor-requirements/assets/project-ic-requirements.pdf)
+
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/15Kfgcbt_wIzVyqEjEqjk2Hjwr5OdcZAHJol0Z1E0-fA/edit)
+
+[Project Individual Contributor Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1TUYxO9VMGUXdnHOKR1j-IM1nCiupyTqI962Vj4fihBk/edit)
 
 ### Extras
 
