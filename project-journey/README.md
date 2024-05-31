@@ -18,13 +18,13 @@ See the [individual contributor project requirements](../project-individual-cont
 
 ## 1. Project planning
 
-Project week starts with project planning. For more details and the specific requirements, see the [Flask/React CRUD App Group Project Project Deliverables](../project-deliverables/README.md) for more details.
+Project week starts with project planning. For more details and the specific requirements, see the [Flask/React CRUD App Group Project Deliverables](../project-deliverables/README.md) for more details.
 
 When your team submits your project planning materials your proposal will either be approved, or you'll receive feedback and be asked to make adjustments before a final approval can be given.
 
 ## 2. Create a GitHub repo
 
-Once your team's project proposal is approved, create the public GitHub repo that you'll use for the project. See the [Flask/React CRUD App Group Project Project Deliverables](../project-deliverables/README.md) for more details.
+Once your team's project proposal is approved, create the public GitHub repos that you'll use for the project. See the [Flask/React CRUD App Group Project Deliverables](../project-deliverables/README.md) for more details.
 
 ## 3. Build the project
 
@@ -32,7 +32,7 @@ The fun part! Your team starts building your project!
 
 ## 4. Deploy the work you have so far
 
-During project week, your team will deploy your project to the internet and submit a link to your deployed app. See the [Flask/React CRUD App Group Project Project Deliverables](../project-deliverables/README.md) for more details.
+During project week, your team will deploy your project to the internet and submit a link to your deployed app. See the [Flask/React CRUD App Group Project Deliverables](../project-deliverables/README.md) for more details.
 
 Continue working on your project until presentation day.
 

@@ -28,7 +28,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - The project has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
 - The project has full CRUD functionality on both the back-end and front-end.
 - The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
-- The project is deployed online so that the rest of the world can use it!
+- The project is deployed online so that the rest of the world can use it.
 
 ### Code convention
 
@@ -60,12 +60,12 @@ A printable version of the project requirements can be found [here](./assets/pro
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your group's interactions with Git and GitHub must fulfill the below requirements.
 
 - You and your team members are shown as the only contributors to the project on GitHub.
-- The GitHub repositories used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or mern-stack-project are not. The repos must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure they are public.***
+- The GitHub repositories used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or flask-react-project are not. The repos must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure they are public.***
 - **Your repos should have commits that date back to the very beginning of the project**. If your group starts over with a new repo, do not delete the old one.
 
 ## README requirements
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your group's README must contain the items or sections below.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your group's front-end README must contain the items or sections below. Unless stated otherwise, these requirements apply only to the front-end README file.
 
 Your front-end `README.md` file should contain the following:
 
@@ -85,6 +85,7 @@ Your back-end `README.md` file should contain the following:
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
 
 - Your group presents your project in front of the class on the scheduled presentation day.
+- The project your group presents is the project you were approved by your instructor to build.
 
 ## Group evaluation
 
