@@ -21,7 +21,7 @@ After your project proposal has been approved, your team will need to designate 
 
 During project week, your team will deploy the project so that others are able to use it on the internet! The back-end and front-end applications will be deployed separately.
 
-Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your back-end Flask application.
+Follow the [Flask Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/flask-deployment/) to deploy your back-end Flask application.
 
 Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
 
